@@ -10,6 +10,10 @@
     "shell",
     "node"
   ],
-  "author": "Simon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simon-He95/executeShell.git"
+  },
+  "author": "Simon He <https://github.com/Simon-He95>",
   "license": "ISC"
 }
