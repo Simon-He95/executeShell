@@ -1,0 +1,15 @@
+{
+  "name": "executeShell",
+  "version": "1.0.0",
+  "description": "node module to execute shell commands",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "keywords": [
+    "shell",
+    "node"
+  ],
+  "author": "Simon",
+  "license": "ISC"
+}
